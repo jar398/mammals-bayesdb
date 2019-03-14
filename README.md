@@ -11,10 +11,12 @@ so you would say something like
 where api.token comes from `[services/authenticate](https://eol.org/services/authenticate)`.  (Currently your EOL account
 needs to have 'power user' privilege.)
 
-(1642 is the EOL page id for mammals)
+([1642](https://eol.org/pages/1642) is the EOL page id for mammals)
 
 I ran this on the 'google cloud'.  You could try it on an ordinary
 compute server, but crosscat can be pretty compute intensive so you'll
 probably want lots of cores and RAM.
+
+Bayesdb home: http://probcomp.csail.mit.edu/software/bayesdb/
 
 GPL
