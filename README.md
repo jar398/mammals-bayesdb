@@ -20,4 +20,6 @@ so you'll probably want lots of cores and RAM.
 
 Bayesdb home: http://probcomp.csail.mit.edu/software/bayesdb/
 
+Thanks to Ulli Schaechtle for help.
+
 GPL
