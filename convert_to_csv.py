@@ -1,6 +1,7 @@
 # Hmm... not sure this is the best / right version to use...
 # the newer traits_dumper script generates a csv file, not JSON,
 # so this will need to be updated to work with csv input.
+# Instead of json.load you'll need to do csv.reader and so on.
 # Shouldn't be too hard, but it's a bit of work.
 
 """
